@@ -10,4 +10,8 @@
 - Nextjs
 - Redux
 
-[example 1](/world-map.jpg)
+![example 1](/public/world-map.jpg)
+
+![example 2](/public/world-map2.jpg)
+
+![example 4](/public/world-map4.jpg)
