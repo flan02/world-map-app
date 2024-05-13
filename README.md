@@ -14,4 +14,6 @@
 
 ![example 2](/public/world-map2.jpg)
 
+![example 2](/public/world-map3.jpg)
+
 ![example 4](/public/world-map4.jpg)
